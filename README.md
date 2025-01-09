@@ -1,2 +1,2 @@
-# cuaEM.github.io
-Intermediate Electricity & Magnetism Physics Web Page
+# cuaPHYS101.github.io
+Conceptual Physics Web Page
